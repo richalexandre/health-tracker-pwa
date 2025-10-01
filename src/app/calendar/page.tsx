@@ -113,12 +113,12 @@ export default function CalendarPage() {
           </CardContent>
         </Card>
 
-        {/* Today's Workout */}
+        {/* Today&apos;s Workout */}
         <Card>
           <CardHeader>
             <CardTitle className="text-lg flex items-center gap-2">
               <CalendarIcon className="h-5 w-5" />
-              Today's Workout
+              Today&apos;s Workout
             </CardTitle>
           </CardHeader>
           <CardContent>

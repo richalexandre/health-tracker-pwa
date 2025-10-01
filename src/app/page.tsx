@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Timer, Calendar, Pill, Apple } from "lucide-react";
 
@@ -17,7 +16,7 @@ export default function Home() {
 
         <Card>
           <CardHeader>
-            <CardTitle className="text-lg">Today's Progress</CardTitle>
+            <CardTitle className="text-lg">Today&apos;s Progress</CardTitle>
           </CardHeader>
           <CardContent className="space-y-3">
             <div className="flex justify-between items-center">

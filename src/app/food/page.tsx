@@ -52,7 +52,7 @@ export default function FoodPage() {
           <CardHeader>
             <CardTitle className="text-lg text-red-600 flex items-center gap-2">
               <Apple className="h-5 w-5" />
-              Today's Nutrition
+              Today&apos;s Nutrition
             </CardTitle>
           </CardHeader>
           <CardContent>
@@ -129,10 +129,10 @@ export default function FoodPage() {
           </CardContent>
         </Card>
 
-        {/* Today's Foods */}
+        {/* Today&apos;s Foods */}
         <Card>
           <CardHeader>
-            <CardTitle className="text-lg">Today's Foods</CardTitle>
+            <CardTitle className="text-lg">Today&apos;s Foods</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="space-y-3">

@@ -42,7 +42,7 @@ export default function SupplementsPage() {
         {/* Daily Progress */}
         <Card>
           <CardHeader>
-            <CardTitle className="text-lg text-purple-600">Today's Progress</CardTitle>
+            <CardTitle className="text-lg text-purple-600">Today&apos;s Progress</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="space-y-3">
